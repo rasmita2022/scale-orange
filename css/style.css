@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Source+Sans+Pro:wght@200;300;400&family=Ubuntu:wght@300&display=swap');
+
+body{
+color:white;
+  font-family: sans-serif;
+background-image: repeating-conic-gradient(purple 10%, violet 20%, indigo 30% );
+}
+P{
+font-size: 15px;
+line-height:1.5;
+}
+h1,h5,h6{
+  font-weight: bold;
+}
+h2{
+  color:#00FFAB;text-align:center;padding:10px;font-weight: bolder;
+}
+h3,h4{
+
+  color:#FFEE63;}
+#home .nav{
+  padding: 0;width:100%;
+}
+#home .navbar-brand{
+  padding:10px; font-family: cursive;font-weight:600;
+}
+
+.nav-item{
+color:white;
+}
+.top-container{
+  position:sticky;
+  top: 0;z-index:1;}
+.sticky{
+  background-color: green;
+}
+
+.intro-container
+{padding:87px 50px 0;
+text-align:center;}
+.icon{
+  align-items: center;margin-left:5rem;margin-bottom:3rem;
+}
+.middle-container
+{
+  padding:87px 50px 87px;
+}
+.feature-heading
+{
+  margin-left:5rem;
+}
+.footer-container{padding:87px 50px 87px;}
